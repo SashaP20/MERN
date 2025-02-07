@@ -2,12 +2,27 @@
 
 # 🚀 MERN Project
 
-A full-stack MERN application with Express.js and MongoDB.
+A full-stack MERN application.
 
 ## 📌 Setup and Run the Project
 
-### **1️⃣ Setup Environment Variables**
+### **Setup Environment Variables**
 Create a `.env` file in the root directory and add the following:
 ```ini
 MONGO_URI=your_mongo_uri
 PORT=5000
+```
+
+
+### **Run this app locally**
+
+```ini
+npm run build
+```
+
+### **Start the app**
+
+```ini
+npm run start
+```
+
